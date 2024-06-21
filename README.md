@@ -50,13 +50,16 @@ Here are some of my notable projects and achievements:
 
 ### Levels of Skill in Microsoft Excel
 - **Title**: [On a Scale of One to Ten, What is Your Skill Level in Microsoft Excel?]([your-article-link](https://www.linkedin.com/pulse/scale-one-ten-what-your-skill-level-microsoft-excel-charles-otoghile/))
+
 - **Summary**: In the article "Levels of Skill in Microsoft Excel," I define four progressive skill levels: Basic, Intermediate, Expert, and Advanced. This framework helps organizations assess candidates' proficiency in Excel.
 
-In the article "Levels of Skill in Microsoft Excel," I define four progressive skill levels: Basic, Intermediate, Expert, and Advanced. This framework helps organizations assess candidates' proficiency in Excel.
 
 - **Basic Level**: Covers fundamental tasks like formatting, basic calculations, and simple functions (SUM, AVERAGE, etc.), using the HOME, PAGE LAYOUT, and VIEW tabs. Basic users score up to 3/10 on an Excel skill scale.
+
 - **Intermediate Level**: Builds on the basics with deeper use of the FORMULA tab, including Lookup, Text, Date, and Math functions, as well as introductory PivotTables and charts. Intermediate users score between 4/10 and 5/10.
+
 - **Expert Level**: Focuses on advanced data analysis using the DATA and INSERT tabs, including complex formulas, PivotTables, and charting. Experts also create efficient models and dashboards, scoring between 6/10 and 7/10.
+
 - **Advanced Level**: Involves extending Excel’s capabilities through VBA programming, creating custom functions, and developing user forms, using the DEVELOPER tab. Advanced users score 8/10 or 9/10, with a theoretical 10/10 for infinite knowledge.
 
 This structured approach helps professionals understand the continuum of Excel skills and guides their learning journey, ensuring they can meet organizational needs at various proficiency levels.
